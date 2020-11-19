@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/314347218.svg)](https://zenodo.org/badge/latestdoi/314347218)
+
 # Title: Submarine groundwater discharge alters coral reef ecosystem metabolism 
 
 This repository includes data  for the above manuscript
