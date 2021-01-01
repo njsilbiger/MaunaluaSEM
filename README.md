@@ -26,3 +26,5 @@ This repository includes data  for the above manuscript
 **DAG.R:** Script to make the DAGS.
 
 **radonplot.R:** Script assess relationship between radon and silicate from Nelson et al. 2015.
+
+**mapplot_noAPI.R:** Script to make the maps. Must load the prediction code data first and you will need to get your own API from google cloud. 
