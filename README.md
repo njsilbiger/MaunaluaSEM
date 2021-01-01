@@ -10,7 +10,7 @@ This repository includes data  for the above manuscript
  
 **Journal:**  Proceedings of the Royal Soceity B
    
-**Link:**  TBD
+**Link:**  [https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.2743](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.2743)
 
 **Contents:** There are two folders, scripts, and a README.md file.
 
