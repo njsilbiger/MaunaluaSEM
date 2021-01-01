@@ -4,7 +4,7 @@
 
 This repository includes data  for the above manuscript
 
-**Authors:** Nyssa J. Silbiger*, Katie Lubarsky, and Megan J. Donahue
+**Authors:** Nyssa J. Silbiger*, Megan J. Donahue, and Katie Lubarsky
  
 **Funding:** This research was funded in part by the National Science Foundation Award #1924281 to NJS, NSF # 1923877 to MJD, and the University of Hawai’i SeaGrant Program (NA14OAR4170071-R/SB-10) to MJD. Some data were obtained via the Hawaii Ocean Time-series HOT-DOGS application at University of Hawai'i at Mānoa, which was funded by National Science Foundation Award # 1756517. This paper is funded in part by a grant from the National Oceanic and Atmospheric Administration, Project R/SB-10, which is sponsored by the University of Hawaii Sea Grant College Program, SOEST, under Institutional Grant NA14OAR4170071 from NOAA Office of Sea Grant, Department of Commerce. The views expressed herein are those of the authors and do not necessarily reflect the views of NOAA or any of its subagencies. 
  
